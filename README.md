@@ -29,6 +29,8 @@ Desenvolvo sistemas web e automações com foco em integrações de APIs, proces
     <img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </p>
 
+---
+
 ### 🚀 No que trabalho
 
 - Painéis web com autenticação, auditoria e controle de acesso por papéis
