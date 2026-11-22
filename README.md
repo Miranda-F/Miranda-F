@@ -1,16 +1,13 @@
-## Hi there 👋
+# Olá, sou M. Franklin 👋
 
-<!--
-**Miranda-F/Miranda-F** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor full stack focado em integrações de APIs, automação de processos e painéis de gestão.
 
-Here are some ideas to get you started:
+## Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+JavaScript · TypeScript · Python · Node.js · PostgreSQL · Docker · Django
+
+## No que trabalho
+
+- Painéis web com autenticação, auditoria e controle de acesso por papéis
+- Integrações com ERP, WhatsApp Business API e plataformas de processos (BPM)
+- Dashboards de indicadores (NPS, jornada do cliente)
