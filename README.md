@@ -33,4 +33,4 @@ Desenvolvo sistemas web e automações com foco em integrações de APIs, proces
 
 - Painéis web com autenticação, auditoria e controle de acesso por papéis
 - Integrações com ERP, WhatsApp Business API e plataformas de processos (BPM)
-- Dashboards de indicadores (NPS, jornada do cliente)
+- Dashboards de indicadores
